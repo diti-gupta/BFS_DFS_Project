@@ -10,8 +10,9 @@ You can run these notebooks directly in your browser using Google Colab—no ins
 ### **Open Notebooks in Colab**  
 Click the links below to open the respective notebook:
 
-- **DFS Notebook → (https://colab.research.google.com/github/diti-gupta/BFS_DFS_Project/blob/main/BFS_Visualization_Project.ipynb)**
-- **BFS Notebook → (https://colab.research.google.com/github/diti-gupta/BFS_DFS_Project/blob/main/DFS_Visualization_Project.ipynb)**
+- **[DFS Notebook](https://colab.research.google.com/github/diti-gupta/BFS_DFS_Project/blob/main/DFS_Visualization_Project.ipynb)**
+- **[BFS Notebook](https://colab.research.google.com/github/diti-gupta/BFS_DFS_Project/blob/main/BFS_Visualization_Project.ipynb)**
+
 
 ## 📌 Requirements  
 If you prefer to run the notebooks locally, install the required dependencies:
